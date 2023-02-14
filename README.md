@@ -1,12 +1,4 @@
 
-</div>
-<br><br><br>
-<h2 align='center'>
-    You can use this login page for your project ,furthermore customize it to working in real websites.
-</h2>
-
-<br><br><br>
-
 <div align='center'>
     <h2>Desktop Mode</h2>
     <img style='border-radius:5px' src="./images/desktop.png"></img>
@@ -43,11 +35,7 @@
 <br><br><br><br>
 
 <h1 align='center'><b>Requirements</b></h1>
-
-Download and install `NodeJS` from official website <a href="https://nodejs.org/">nodeJS.org</a>
-
-<br><br><br><br>
-
+<br><br>
 <h1 align='center'><b>How To Run</b></h1>
 
 At first you have to clone the project and open it in `IDE`
