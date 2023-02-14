@@ -22,9 +22,6 @@
 
 
 <br><br><br><br>
-
-<h1 align='center'><b>Requirements</b></h1>
-<br><br>
 <h1 align='center'><b>How To Run</b></h1>
 
 At first you have to clone the project and open it in `IDE`
